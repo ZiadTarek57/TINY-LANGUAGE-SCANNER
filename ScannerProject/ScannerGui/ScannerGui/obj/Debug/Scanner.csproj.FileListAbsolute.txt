@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\ScannerGui\ScannerGui\bin\Debug\ScannerGui.exe.config
+C:\Users\HP\source\repos\ScannerGui\ScannerGui\bin\Debug\ScannerGui.exe
+C:\Users\HP\source\repos\ScannerGui\ScannerGui\bin\Debug\ScannerGui.pdb
+C:\Users\HP\source\repos\ScannerGui\ScannerGui\obj\Debug\Scanner.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ScannerGui\ScannerGui\obj\Debug\ScannerGui.Properties.Resources.resources
+C:\Users\HP\source\repos\ScannerGui\ScannerGui\obj\Debug\Scanner.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ScannerGui\ScannerGui\obj\Debug\Scanner.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ScannerGui\ScannerGui\obj\Debug\ScannerGui.exe
+C:\Users\HP\source\repos\ScannerGui\ScannerGui\obj\Debug\ScannerGui.pdb
+C:\Users\HP\source\repos\ScannerGui\ScannerGui\obj\Debug\Scanner.Form1.resources
